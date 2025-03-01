@@ -10,7 +10,7 @@
 В ближайшем обозримом будущем планирую прокачивать личный бренд через выступления на проф. конференциях.
 
 ## 🛠️ Мой основной стек
-![TypeScript](https://skillicons.dev/icons?i=typescript) ![JavaScript](https://skillicons.dev/icons?i=javascript) ![React](https://skillicons.dev/icons?i=react) ![Redux](https://skillicons.dev/icons?i=redux) ![Next.js](https://skillicons.dev/icons?i=nextjs) ![HTML5](https://skillicons.dev/icons?i=html) ![CSS3](https://skillicons.dev/icons?i=css) ![SASS](https://skillicons.dev/icons?i=sass)  ![Webpack](https://skillicons.dev/icons?i=webpack) ![Vite](https://skillicons.dev/icons?i=vite) ![Git](https://skillicons.dev/icons?i=git) ![Jira](https://skillicons.dev/icons?i=jira)
+![TypeScript](https://skillicons.dev/icons?i=typescript) ![JavaScript](https://skillicons.dev/icons?i=javascript) ![React](https://skillicons.dev/icons?i=react) ![Redux](https://skillicons.dev/icons?i=redux) ![Next.js](https://skillicons.dev/icons?i=nextjs) ![HTML5](https://skillicons.dev/icons?i=html) ![CSS3](https://skillicons.dev/icons?i=css) ![SASS](https://skillicons.dev/icons?i=sass)  ![Webpack](https://skillicons.dev/icons?i=webpack) ![Vite](https://skillicons.dev/icons?i=vite) ![Git](https://skillicons.dev/icons?i=git)
 
 
 <!-- ## 💪 Уровень навыков
