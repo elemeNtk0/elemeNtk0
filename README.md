@@ -13,7 +13,7 @@
 ![TypeScript](https://skillicons.dev/icons?i=typescript) ![JavaScript](https://skillicons.dev/icons?i=javascript) ![React](https://skillicons.dev/icons?i=react) ![Redux](https://skillicons.dev/icons?i=redux) ![Next.js](https://skillicons.dev/icons?i=nextjs) ![HTML5](https://skillicons.dev/icons?i=html) ![CSS3](https://skillicons.dev/icons?i=css) ![SASS](https://skillicons.dev/icons?i=sass)  ![Webpack](https://skillicons.dev/icons?i=webpack) ![Vite](https://skillicons.dev/icons?i=vite) ![Git](https://skillicons.dev/icons?i=git) ![Jira](https://skillicons.dev/icons?i=jira)
 
 
-## 💪 Уровень навыков
+<!-- ## 💪 Уровень навыков
 <details>
   <summary>Тык сюда</summary>
 
@@ -35,7 +35,7 @@
   - `█████████████░░░` **Git**
   - `████████████░░░░` **Vite**
 
-</details>
+</details> -->
 
 
 ## 🚀 Обычно Я
@@ -54,7 +54,7 @@
 - **~/.space307**: развитие бренда, сделал БЭМ основной методологией в компании
 - **HTML Academy**: создал 1й блок курса «Великий Кексби»
 
-## 🏆 Также имею большой опыт в вёрстке
+## 🏆 Прочий бэкграунд
 - Более 10 лет в вёрстке (застал IE 6 и SVN)
 - Управлял командой из 5 человек
 - Верстал письма и настраивал Marketo
